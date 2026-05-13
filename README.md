@@ -5,6 +5,8 @@ I worked on this lab alone.
 ## GitHub Pages URL
 [https://thirteenframes.github.io/Lab8_Starter/](https://thirteenframes.github.io/Lab8_Starter/)
 
+Installing on a phone creates an app on the home screen.
+
 ## Graceful Degradation and Service Workers
 
 Graceful degradation means that when some features fail, the entire app doesn't stop working. 
